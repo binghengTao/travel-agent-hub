@@ -17,5 +17,4 @@ storage/bm25/
 storage/uploads/
 storage/outputs/
 *.log
-data/dataset/
 *.db
