@@ -1,0 +1,2 @@
+# 注释说明：该依赖清单列出运行所需 Python 包，注释用于说明文件用途。
+-r backend/requirements.txt
